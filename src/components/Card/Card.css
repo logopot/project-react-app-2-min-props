@@ -1,0 +1,5 @@
+.card {
+    width: calc(25% - 15px);
+    background-color: #cecece;
+    height: 250px;
+}

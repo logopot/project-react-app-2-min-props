@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #333;
+}
+
+header .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    width: 50px;
+}
